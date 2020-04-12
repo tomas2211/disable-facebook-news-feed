@@ -18,3 +18,24 @@
   width: 0;
   overflow: hidden;
 }
+
+#stories_tray
+{
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+#BuddylistPagelet
+{
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+#watch_feed
+{
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}

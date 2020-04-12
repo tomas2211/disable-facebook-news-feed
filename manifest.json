@@ -1,7 +1,7 @@
 {
     "description": "Removes News Feed from Facebook.",  
     "manifest_version": 2,  
-    "name": "Disable Facebook News Feed",  
+    "name": "Disable Facebook News Feed, Watch Feed, Stories Tray and Chat Menu (use messenger.com)",
     "version": "1.6", 
     "author": "Ankit Kumar", 
     "content_scripts":  
